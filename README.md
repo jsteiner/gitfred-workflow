@@ -6,6 +6,9 @@ Uses the [gitfred script] to cache and search GitHub repos.
 
 [gitfred script]: https://github.com/jsteiner/gitfred
 
+![Gitfred
+demo](https://cloud.githubusercontent.com/assets/466493/14092970/6400f452-f518-11e5-97ce-2b09d024b66d.gif)
+
 ## Features
 
 * Caches repos for instant search.
