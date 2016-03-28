@@ -66,7 +66,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Trelfred</string>
+	<string>Gitfred</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -77,7 +77,7 @@
 				<key>escaping</key>
 				<integer>127</integer>
 				<key>keyword</key>
-				<string>trelfred</string>
+				<string>gitfred</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -87,9 +87,9 @@
 				<key>queuemode</key>
 				<integer>1</integer>
 				<key>script</key>
-				<string>./trelfred search {query}</string>
+				<string>./gitfred search {query}</string>
 				<key>title</key>
-				<string>Trelfred</string>
+				<string>Gitfred</string>
 				<key>type</key>
 				<integer>5</integer>
 				<key>withspace</key>
@@ -129,11 +129,11 @@
 				<key>argument</key>
 				<integer>0</integer>
 				<key>hotkey</key>
-				<integer>17</integer>
+				<integer>5</integer>
 				<key>hotmod</key>
 				<integer>524288</integer>
 				<key>hotstring</key>
-				<string>T</string>
+				<string>G</string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -156,7 +156,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>./trelfred increment {query}</string>
+				<string>./gitfred increment {query}</string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -175,7 +175,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>./trelfred cache</string>
+				<string>./gitfred cache</string>
 				<key>type</key>
 				<integer>5</integer>
 			</dict>
@@ -192,9 +192,9 @@
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
-				<string>cache-trelfred</string>
+				<string>cache-gitfred</string>
 				<key>text</key>
-				<string>Cache Trelfred</string>
+				<string>Cache Gitfred</string>
 				<key>withspace</key>
 				<false/>
 			</dict>
@@ -221,7 +221,7 @@
 				<key>text</key>
 				<string>{query}</string>
 				<key>title</key>
-				<string>Cached Trello Boards</string>
+				<string>Cached GitHub Repos</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.notification</string>
