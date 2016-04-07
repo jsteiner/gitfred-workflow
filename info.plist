@@ -192,7 +192,7 @@
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
-				<string>cache-gitfred</string>
+				<string>gitfred-cache</string>
 				<key>text</key>
 				<string>Cache Gitfred</string>
 				<key>withspace</key>
