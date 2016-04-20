@@ -156,7 +156,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>./gitfred increment {query}</string>
+				<string>./gitfred increment {query} &amp;&amp; ./gitfred cache</string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
