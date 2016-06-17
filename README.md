@@ -18,12 +18,12 @@ demo](https://cloud.githubusercontent.com/assets/466493/14092970/6400f452-f518-1
 ## Install
 
 1. Clone this repo and symlink in in your Alfred workflows directory.
+1. Create a [GitHub OAuth token] with `repo` scopes.
 1. Create a `.env` file in this repo with the following structure:
 
    ```
    GITHUB_OAUTH_TOKEN=your-oauth-token
    ```
 
-1. Create a [GitHub OAuth token] with `repo` scopes and add it to your `.env`.
 
 [GitHub OAuth token]: https://github.com/settings/tokens/new
